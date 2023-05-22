@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding 0;
+}
+
+h1, h3 {
+  font-family: cursive;
+}
+
+.header1 {
+  background: rgb(50, 49, 49);
+  border: 3px solid;
+  height: 97px;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.title {
+  color: red;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+}
+
+
+.page1 {
+  border: 2px solid;
+  background-color: palegoldenrod;
+  height: 280px;
+  max-width: 100%;
+}
+
+img {
+  width: 250px;
+  height: 150px;
+}
+
